@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme.
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    -->
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <string-array name="datos">
+        <item>PERSONAS FÍSICAS NACIONALES O EXTRANJERAS RESIDENTES TEMPORALES O PERMANENTE</item>
+        <item>PERSONAS MORALES MEXICANAS</item>
+        <item>PERSONAS MORALES DE DERECHO PÚBLICO</item>
+        <item>PERSONAS FÍSICAS EXTRANJERAS CON CONDICIÓN DE VISITANTE</item>
+        <item>PERSONAS MORALES EXTRANJERAS</item>
+        <item>EMBAJADA, CONSULADO U ORGANISMO INTERNACIONAL</item>
+        <item>PERSONAS MORALES, DEPENDENCIAS Y ENTIDADES</item>
+        <item>PERSONAS MEXICANAS DE DERECHO PÚBLICO</item>
+        <item>FIDEICOMISOS</item>
+    </string-array>
+
+</resources>

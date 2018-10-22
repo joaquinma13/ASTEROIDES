@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BLINDA</string>
+
+    <!-- General -->
+    <string name="info_identificacion">Datos de Identificación</string>
+    <string name="info_personal">Informacion Personal</string>
+    <string name="apaterno">Ap. Paterno</string>
+    <string name="amaterno">Ap. Materno</string>
+
+    <string name="titulo_1">PERSONAS FÍSICAS NACIONALES O EXTRANJERAS RESIDENTES TEMPORALES O PERMANENTE</string>
+
+
+
+
+</resources>
